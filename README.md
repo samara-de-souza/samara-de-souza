@@ -15,4 +15,4 @@ Vamos nos conectar e compartilhar conhecimentos! 🚀✨
 - ⚡ Curiosidade: Sou apaixonada por tecnologia e adoro explorar novas linguagens e ferramentas de programação no meu tempo livre!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samara-de-souza_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samara-de-souza&icons=true&theme=synthwave)
