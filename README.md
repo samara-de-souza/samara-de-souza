@@ -1,5 +1,5 @@
 # Olá! 👋 Seja bem-vindo ao meu GitHub!
-Sou a Samara, estudante de Ciência da Computação na PUCRS e apaixonada por tecnologia e inovação. Tenho experiência em desenvolvimento web e adoro criar soluções que realmente impactem a vida das pessoas.
+Sou a Samara, estudante de Ciência da Computação na PUCRS e apaixonada por tecnologia e inovação.
 
 Estou sempre em busca de novos desafios para aprender mais, aprimorar minhas habilidades e colaborar em projetos incríveis. Sinta-se à vontade para explorar meus repositórios e ver alguns dos projetos em que estou trabalhando!
 
