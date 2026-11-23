@@ -175,7 +175,7 @@ Atualmente, curso MBA em Cibersegurança pela USP/ESALQ, com especial interesse 
 
 
 <p align="center">
-  <img src="https://stats.pphat.top/stats?username=samara-de-souza&theme=discord_old_blurple&avatar_mode=radar" width="400" alt="GitHub Stats" />
+  <img src="https://stats.pphat.top/stats?username=samara-de-souza&theme=discord_old_blurple&avatar_mode=radar" width="700" alt="GitHub Stats" />
 </p>
 
 
